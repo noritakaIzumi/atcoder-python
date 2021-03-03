@@ -1,2 +1,10 @@
 /.idea
 /venv
+
+# browser drivers
+/chromedriver.exe
+/geckodriver.log
+
+# npm
+/node_modules
+/package-lock.json
