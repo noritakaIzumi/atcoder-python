@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "atcoder-cli": "^2.1.0"
+    "atcoder-cli": "*"
   }
 }
