@@ -12,3 +12,4 @@
 # AtCoder config & test files
 /*/*/test
 /*/contest.acc.json
+!main.py
